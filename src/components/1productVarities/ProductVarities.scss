@@ -1,0 +1,35 @@
+.productVarities{
+  width: 80%;
+  margin: 0 auto;
+  background-color: transparent;
+
+  .title-sec{
+    h2{
+      margin: 20px 0px;
+    }
+  }
+  .content-sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .items{
+      width: 22%;
+      padding-right: 10px;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0px 0px 10px #d3cece;
+      transition: 0.5s;
+      cursor: pointer;
+      
+
+      img{
+        width: 100%;
+      }
+    }
+    .items:hover{
+      box-shadow: 0px 0px 15px #8174748f;
+      transition: 0.5s;
+    }
+  }
+}

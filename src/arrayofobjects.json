@@ -1,0 +1,440 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "imgURL": "./image/1Deals/1.png"
+    },
+    {
+      "id": 2,
+      "imgURL": "./image/1Deals/2.png"
+    },
+    {
+      "id": 3,
+      "imgURL": "./image/1Deals/3.png"
+    },
+    {
+      "id": 4,
+      "imgURL": "./image/1Deals/4.png"
+    },
+    {
+      "id": 5,
+      "imgURL": "./image/1Deals/5.png"
+    },
+    {
+      "id": 6,
+      "imgURL": "./image/1Deals/6.png"
+    }
+  ],
+
+  "bigbasket": [
+    {
+      "id": 1,
+      "imgURL": "./image/fruits&vegetables/freshVegetables.jpg",
+      "name": "Fresh Vegetables",
+      "offer": 27,
+      "nestedObjs": [
+        {
+          "id": 1,
+          "productName": "Onion",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/onion.png",
+          "offer": 40,
+          "price": 71,
+          "alterPrice": 106,
+          "count": 1,
+          "type": "Kg",
+          "quantity": 0
+        },
+        {
+          "id": 2,
+          "productName": "Potato",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/potato.png",
+          "offer": 37,
+          "price": 34,
+          "alterPrice": 54,
+          "count": 1,
+          "type": "Kg",
+          "quantity": 0
+        },
+        {
+          "id": 3,
+          "productName": "Carrot",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/carrot-orange.jpg",
+          "offer": 54,
+          "price": 56,
+          "alterPrice": 94,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 4,
+          "productName": "Tomato-Local",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/tomato.jpg",
+          "offer": 27,
+          "price": 35.04,
+          "alterPrice": 48,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 5,
+          "productName": "Cucumber",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/cucumber.jpg",
+          "offer": 27,
+          "price": 56,
+          "alterPrice": 77,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 6,
+          "productName": "Capsicum-Green",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/capsicum.jpg",
+          "offer": 27,
+          "price": 68.62,
+          "alterPrice": 94,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 7,
+          "productName": "Coriander Leaves",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/coriander.jpg",
+          "offer": 27,
+          "price": 70.08,
+          "alterPrice": 96,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 8,
+          "productName": "Ladie's Fingers",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshvegNest/ladiesfinger.png",
+          "offer": 27,
+          "price": 64.24,
+          "alterPrice": 88,
+          "count": 1,
+          "type": "Kg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgURL": "./image/fruits&vegetables/freshfruits.jpg",
+      "name": "Fresh Fruits",
+      "offer": 27,
+      "nestedObjs": [
+        {
+          "id": 1,
+          "productName": "Orange - Nagpur",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/1.png",
+          "offer": 78,
+          "price": 52,
+          "alterPrice": 100,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 2,
+          "productName": "Coconut - Medium",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/2.jpg",
+          "offer": 28,
+          "price": 29,
+          "alterPrice": 40,
+          "count": 1,
+          "type": "Pcs"
+        },
+        {
+          "id": 3,
+          "productName": "Apple - Shimla",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/3.png",
+          "offer": 27,
+          "price": 119.72,
+          "alterPrice": 164,
+          "count": 4,
+          "type": "pcs"
+        },
+        {
+          "id": 4,
+          "productName": "Banana - Yelakki",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/4.jpg",
+          "offer": 27,
+          "price": 95.63,
+          "alterPrice": 131,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 5,
+          "productName": "Pomegranate - Regular",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/5.png",
+          "offer": 27,
+          "price": 279.59,
+          "alterPrice": 383,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 6,
+          "productName": "Watermelon - Small",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/6.png",
+          "offer": 27,
+          "price": 49.64,
+          "alterPrice": 68,
+          "count": 1,
+          "type": "Pcs"
+        },
+        {
+          "id": 7,
+          "productName": "Banana - Nendran",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/7.jpg",
+          "offer": 27,
+          "price": 54,
+          "alterPrice": 74,
+          "count": 1,
+          "type": "Kg"
+        },
+        {
+          "id": 8,
+          "productName": "Dragon Fruit",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/freshfruitsNest/8.png",
+          "offer": 41,
+          "price": 53,
+          "alterPrice": 90,
+          "count": 1,
+          "type": "Pcs"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgURL": "./image/fruits&vegetables/cuts&exotics.jpg",
+      "name": "cuts & Exotics",
+      "offer": 27,
+      "nestedObjs": [
+        {
+          "id": 1,
+          "productName": "Mushrooms - Button",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/1.png",
+          "offer": 39,
+          "price": 51.5,
+          "alterPrice": 84,
+          "count": 1,
+          "type": "Pack"
+        },
+        {
+          "id": 2,
+          "productName": "Sweet Corn",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/2.jpg",
+          "offer": 35,
+          "price": 30,
+          "alterPrice": 46,
+          "count": 2,
+          "type": "Pcs"
+        },
+        {
+          "id": 3,
+          "productName": "Pear - Green,Imported",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/3.jpg",
+          "offer": 44,
+          "price": 119,
+          "alterPrice": 213,
+          "count": 4,
+          "type": "pcs"
+        },
+        {
+          "id": 4,
+          "productName": "Avacoda - Imported Medium",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/4.jpg",
+          "offer": 27,
+          "price": 129.21,
+          "alterPrice": 177,
+          "count": 1,
+          "type": "Pcs"
+        },
+        {
+          "id": 5,
+          "productName": "Blueberry",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/5.png",
+          "offer": 32,
+          "price": 289,
+          "alterPrice": 428,
+          "count": 125,
+          "type": "g"
+        },
+        {
+          "id": 6,
+          "productName": "Kiwi - Green",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/6.png",
+          "offer": 27,
+          "price": 72.27,
+          "alterPrice": 99,
+          "count": 3,
+          "type": "Pcs"
+        },
+        {
+          "id": 7,
+          "productName": "Pea Eggplant / Sundaikai",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/7.jpg",
+          "offer": 27,
+          "price": 9.49,
+          "alterPrice": 13,
+          "count": 100,
+          "type": "g"
+        },
+        {
+          "id": 8,
+          "productName": "Grapes - Paneer with seed",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/cutsExoticsNest/8.png",
+          "offer": 27,
+          "price": 78.11,
+          "alterPrice": 107,
+          "count": 500,
+          "type": "g"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imgURL": "./image/fruits&vegetables/herbs&seasonings.jpg",
+      "name": "Herbes & Seasonings",
+      "offer": 27,
+      "nestedObjs": [
+        {
+          "id": 1,
+          "productName": "Garlic (Loose)",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/1.jpg",
+          "offer": 29,
+          "price": 65,
+          "alterPrice": 92,
+          "count": 250,
+          "type": "g"
+        },
+        {
+          "id": 2,
+          "productName": "Ginger (Loose)",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/2.jpg",
+          "offer": 34,
+          "price": 42.5,
+          "alterPrice": 64,
+          "count": 250,
+          "type": "9"
+        },
+        {
+          "id": 3,
+          "productName": "Chilli - Green Long (Loose)",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/3.jpg",
+          "offer": 34,
+          "price": 18.5,
+          "alterPrice": 28,
+          "count": 250,
+          "type": "g"
+        },
+        {
+          "id": 4,
+          "productName": "Lemon (Loose)",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/4.jpg",
+          "offer": 58,
+          "price": 36,
+          "alterPrice": 85,
+          "count": 250,
+          "type": "g"
+        },
+        {
+          "id": 5,
+          "productName": "Curry Leaves",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/5.jpg",
+          "offer": 27,
+          "price": 9.49,
+          "alterPrice": 13,
+          "count": 100,
+          "type": "g"
+        },
+        {
+          "id": 6,
+          "productName": "Lemon Grass",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/6.jpg",
+          "offer": 27,
+          "price": 15.33,
+          "alterPrice": 21,
+          "count": 100,
+          "type": "g"
+        },
+        {
+          "id": 7,
+          "productName": "Sriracha Mix",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/7.png",
+          "offer": null,
+          "price": 99,
+          "alterPrice": 149,
+          "count": 156,
+          "type": "g"
+        },
+        {
+          "id": 8,
+          "productName": "Coriander Leaves 100g + Garlic 250g + Ginger 250g + Lemon",
+          "brandName": "Fresho",
+          "imgURL": "../image/fruits&vegetables/herbSeasoningsNest/8.jpg",
+          "offer": 27,
+          "price": 78.11,
+          "alterPrice": 107,
+          "count": null,
+          "type": "Combo - 4 Items"
+        }
+      ]
+    }
+  ],
+
+  "snacksStore": [
+    {
+      "imgURL": "./image/snacksStore/1.jpg",
+      "name": "Biscuits",
+      "offer": 27
+    },
+    {
+      "imgURL": "./image/snacksStore/2.jpg",
+      "name": "Morning Starters",
+      "offer": 27
+    },
+    {
+      "imgURL": "./image/snacksStore/3.jpg",
+      "name": "Pasta, Sauces & More",
+      "offer": 27
+    },
+    {
+      "imgURL": "./image/snacksStore/4.jpg",
+      "name": "Sweet Cravings",
+      "offer": 27
+    }
+  ]
+}
